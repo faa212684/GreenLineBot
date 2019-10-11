@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{23308850-2F23-4FFC-BE10-6417FA44ECA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Content/NewUserGreeting.json">
+    <Files>
+      <File FileName="Deployment/Scripts/Deploy.json" Line="2" Column="3" />
+      <File FileName="Startup.cs" />
+      <File FileName="Content/NewUserGreeting.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirtualAssistant" expanded="True">
+            <Node name="VirtualAssistant" expanded="True">
+              <Node name="Adapters" expanded="True" />
+              <Node name="Bots" expanded="True" />
+              <Node name="Content" expanded="True">
+                <Node name="NewUserGreeting.json" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Deployment" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VirtualAssistant PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

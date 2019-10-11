@@ -1,0 +1,76 @@
+﻿{
+  
+  "allowGuestsSignIn": null,
+  "allowPassthroughUsers": null,
+  "appId": "3e0a0537-0f73-48f5-8384-f4c57ddfc826",
+  "appLogoUrl": null,
+  "appPermissions": null,
+  "appRoles": [],
+  "applicationTemplateId": null,
+  "availableToOtherTenants": true,
+  "deletionTimestamp": null,
+  "displayName": "GreenLineAssistant",
+  "errorUrl": null,
+  "groupMembershipClaims": null,
+  "homepage": null,
+  "identifierUris": [],
+  "informationalUrls": {
+    "marketing": null,
+    "privacy": null,
+    "support": null,
+    "termsOfService": null
+  },
+  "isDeviceOnlyAuthSupported": null,
+  "keyCredentials": [],
+  "knownClientApplications": [],
+  "logo@odata.mediaEditLink": "directoryObjects/97a297c1-7f13-4b7b-a503-4701b477c396/Microsoft.DirectoryServices.Application/logo",
+  "logoUrl": null,
+  "logoutUrl": null,
+  "mainLogo@odata.mediaEditLink": "directoryObjects/97a297c1-7f13-4b7b-a503-4701b477c396/Microsoft.DirectoryServices.Application/mainLogo",
+  "oauth2AllowIdTokenImplicitFlow": true,
+  "oauth2AllowImplicitFlow": false,
+  "oauth2AllowUrlPathMatching": false,
+  "oauth2Permissions": [
+    {
+      "adminConsentDescription": "Allow the application to access GreenLineAssistant on behalf of the signed-in user.",
+      "adminConsentDisplayName": "Access GreenLineAssistant",
+      "id": "737c9e2f-8b40-45ae-bcf0-fa3c057e88a2",
+      "isEnabled": true,
+      "type": "User",
+      "userConsentDescription": "Allow the application to access GreenLineAssistant on your behalf.",
+      "userConsentDisplayName": "Access GreenLineAssistant",
+      "value": "user_impersonation"
+    }
+  ],
+  "oauth2RequirePostResponse": false,
+  "objectId": "97a297c1-7f13-4b7b-a503-4701b477c396",
+  "objectType": "Application",
+  "odata.metadata": "https://graph.windows.net/e202cd47-7a56-4baa-99e3-e3b71a7c77dd/$metadata#directoryObjects/@Element",
+  "odata.type": "Microsoft.DirectoryServices.Application",
+  "optionalClaims": null,
+  "orgRestrictions": [],
+  "parentalControlSettings": {
+    "countriesBlockedForMinors": [],
+    "legalAgeGroupRule": "Allow"
+  },
+  "passwordCredentials": [
+    {
+      "additionalProperties": null,
+      "customKeyIdentifier": null,
+      "endDate": "2020-10-02T21:04:14.260069+00:00",
+      "keyId": "4e01b3c5-e946-4eda-97a9-ad3c0263ea81",
+      "startDate": "2019-10-02T21:04:14.260069+00:00",
+      "value": null
+    }
+  ],
+  "preAuthorizedApplications": null,
+  "publicClient": null,
+  "publisherDomain": "UIC365.onmicrosoft.com",
+  "recordConsentConditions": null,
+  "replyUrls": [],
+  "requiredResourceAccess": [],
+  "samlMetadataUrl": null,
+  "signInAudience": "AzureADMultipleOrgs",
+  "tokenEncryptionKeyId": null,
+  "wwwHomepage": null
+}
